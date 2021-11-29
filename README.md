@@ -1,7 +1,7 @@
 # Youtube Spring boot Kotlin
 
-yt link upload
+https://www.youtube.com/watch?v=cYqvQ6hnz7I&t=25s
 
 # Youtube Spring boot Open API v3 documentation
 
-yt link upload
+https://www.youtube.com/watch?v=kK4j_ik3KFI
